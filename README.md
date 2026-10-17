@@ -10,7 +10,7 @@ Hesap Makinesi: Temel matematiksel işlemleri yapabilen çalışan bir araç.
 Komut İstemi (CMD): Özel komutları (örn. `help`, `version`, `clear`, `date`) çalıştıran terminal simülasyonu.
 Canlı Görev Çubuğu ve Saat: Sağ alt köşede anlık güncellenen sistem saati.
 Kurulum ve Çalıştırma
-Projeyi çalıştırmak için bilgisayarınızda Python'ın kurulu olması yeterlidir. Herhangi bir harici kütüphane yüklemenize gerek yoktur.
+Projeyi çalıştırmak için bilgisayarınızda Python'ın kurulu olması yeterlidir. Herhangi bir harici kütüphane yüklemenize gerek yoktu.
 ```bash
 # Depoyu klonlayın
 git clone https://github.com/kullaniciadi/windows9-simulator.git
