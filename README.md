@@ -13,7 +13,7 @@ Kurulum ve Çalıştırma
 Projeyi çalıştırmak için bilgisayarınızda Python'ın kurulu olması yeterlidir. Herhangi bir harici kütüphane yüklemenize gerek yoktu.
 ```bash
 # Depoyu klonlayın
-git clone https://github.com/kullaniciadi/windows9-simulator.git
+git clone https://github.com/AyazErkusYeni/windows9-simulator.git
 
 # Proje dizinine girin
 cd windows9-simulator
